@@ -18,7 +18,7 @@ List here the following details:
 * Team members
 
   We have three students in this team:
-   xxxx
+   lily gebremariam
 
    xxxx
 
