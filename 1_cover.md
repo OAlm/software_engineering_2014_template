@@ -3,6 +3,6 @@
 List here the following details:
 * Project title, name of the product
 * Team name
-* Team members
+* Team members: Nguyen Thai Binh, Nguyen D Phuong
 * Date
 
