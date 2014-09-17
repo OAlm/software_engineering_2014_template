@@ -9,7 +9,9 @@
 
 * Describe here the background and motivation for your project
 
-  Everybody has different background and motivation. As to me, I study business IT program. So I know a little bit business and a little bit IT . Nothing good at:-/. I 've heard from other student that there would be one course to teach student use PHP and the  course name seems to be software engineering. That' s why I enrolled it. Now I found it would not offer any php issue in the course. However another interesting I found. To learn how to use GIT. That's why  I am still here :-)
+###EDIT  
+
+Everybody has different background and motivation. As to me, I study business IT program. So I know a little bit business and a little bit IT . Nothing good at:-/. I 've heard from other student that there would be one course to teach student use PHP and the  course name seems to be software engineering. That' s why I enrolled it. Now I found it would not offer any php issue in the course. However another interesting I found. To learn how to use GIT. That's why  I am still here :-)
 
 * Why this project, what was the need for the system?
 
