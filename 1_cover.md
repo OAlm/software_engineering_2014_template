@@ -1,4 +1,4 @@
-### This is the cover page of your document
+### EDIT
 
 List here the following details:
 * Project title, name of the product
