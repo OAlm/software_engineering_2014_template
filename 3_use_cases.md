@@ -7,3 +7,7 @@
   * a template also tells how a use case can fail
   * in addition, you can describe alternative flows of the case
 * Choose one of the use case templates and describe it as a flow chart
+
+
+
+this is the new clone copy
