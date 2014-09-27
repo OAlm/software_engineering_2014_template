@@ -1,7 +1,5 @@
-software_engineering_2014_template
-==================================
+#Software_Engineering_2014_project_Template
 
-#Software engineering 2014 project template
 
 This repository provides the skeleton of the software engineering project work and it contains 7 markdown files, one for each chapter of the documentation.
 
