@@ -1,14 +1,13 @@
-### This is the cover page of your document
 
-List here the following details:
-* Project title, name of the product 
- * Project title and name of the product is CampusSeek.
-* Team name
- * We decided to choose Prometheus as our team name. 
-* Team members: 
- * Nguyen Thai Binh, Student ID: 1403735
- * Nguyen Dung Phuong, Student ID: 1304949
- * Midhat Hasan Raghib, Student ID: 1304947
-* Date
- * 23/09/2014
+#Project title - CampusSeek
+##Product Name- Camp_Seeker
+###Team - Prometheus
+
+| Team members  | Student ID |
+| ------------- | ------------- |
+| Nguyen Thai Binh  | 1403735  |
+| Nguyen Dung Phuong  | 1304949  |
+|  Midhat Hasan Raghib | 1304947  |
+
+*Date 23/09/2014
 
