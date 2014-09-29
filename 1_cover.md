@@ -1,6 +1,7 @@
 ##Campus-Seek
 
 |               |               |
+| ------------- | ------------- |
 | **Product Name**|  CampusSeek|
 | **Team Name**|  Prometheus|
 |**Team members** |Nguyen Thai Binh 1403735|
