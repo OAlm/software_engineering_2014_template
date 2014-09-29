@@ -13,7 +13,6 @@
 | |Midhat Hasan Raghib  1304947|
 
 | **Product Name**       	|  CampusSeek                 	|
-|--------------------	|-----------------------------	|
 | **Team Name**          	| Prometheus                  	|
 | **Team members**       	| Nguyen Thai Binh 1403735    	|
 |                    	| Nguyen Dung Phuong 1304949  	|
