@@ -1,6 +1,5 @@
 ##Campus-Seek
 
-|               |               |
 | ------------- | ------------- |
 | **Product Name**|  CampusSeek|
 | **Team Name**|  Prometheus|
