@@ -1,7 +1,7 @@
 #1. Introduction
 
 ####Description of our project
-Mr Olli has shown us a prototype application which uses indoor position system built by metropolia students.It's available in google play known as 'KANA' which is under development process.The current app is completly outdateed and our team has decided to continue the development process app.Therefore we are implementing a solution where students and teachers are able to track each other 
+Mr Olli has shown us a prototype application which uses indoor position system built by metropolia students.It's available in google play known as ['KANA'] (https://play.google.com/store/apps/details?id=fi.metropolia.jokketest&hl=en) which is under development process.The current app is completly outdateed and our team has decided to continue the development process app.Therefore we are implementing a solution where students and teachers are able to track each other 
 
 
 
