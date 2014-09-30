@@ -1,11 +1,4 @@
-### Project management, self reflection, last chapter
-
-* Sum up here your project
-* Was it successful, how was the communication
-* What you would do differently for the next project
-* What were the easy parts in the project? What was hard?
-* List here also estimation of hours spend in total and by each member in the project
-* 
+### Project management
 
 Our projet is based on an actual prototype application which uses indoor position system  called "KANA". The most difficult part in this project is the brainstorming, coming up with new ideas to provide better solutions for the outdated prototype.
 
