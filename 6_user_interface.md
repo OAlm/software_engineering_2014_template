@@ -10,6 +10,7 @@ We show below briefly the view and the components of th UI, which will be explai
  5. Friend Location
  6. Navigation
  7. Statistic
+ 8. Credits
  
 2. Functionalities
  1. Starting page: Starting page is the first page that every user will see when the application starts. In this page users must sign up if they are a new user or they can sign in if they already have an accoun. Another option is that users can choose to remember their username and password for faster login.
@@ -19,3 +20,4 @@ We show below briefly the view and the components of th UI, which will be explai
  5. Friend Location: when user chooses a friend in their friend list, the location of his firend will be revealed with the option to navigate user to their friend location
  6. Navigation: like GPS, it will show the route to friend's location using IPS technology.
  7. Statistic: show the statistic about users acivity ( which friends is tracked the most...) 
+ 8. Credits: show names of author, version of application and also mailbox where users can send feedback.
