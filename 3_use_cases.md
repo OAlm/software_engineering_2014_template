@@ -40,6 +40,16 @@
 | Exception     | 1. Friend can not be found  1. System will inform that friend can not be found  2. System will ask user to input again friend's information for searching  3. System suggest friend that has the similar account name     |
 
 
+|               |                                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------|
+| Use case name | Track friend          
+| Actors        | Student, Teacher                                                                                     |
+| Description   | Student and Teacher can know friend's location inside the campus and will routed there.              |
+| Initial state | 1. Users logged in. 2. Users accessed friend list. 3. Users choose friend to track.                  |
+| Normal Flow   | 1. Users choose friend in friend's list to track. 2. System will show targeted friend basic info and his/her location in real-time . 3. Users choose to be navigated there. 5. System will show the real-time navigation map to instruct users to their destination. 6. system will inform users when reaching destination.                         | | End state     | Friend's location is infomred and system navigate users to destination.                              |
+| Exception     | 1. Friend can not be found  1. System will inform that friend can not be found  2. System will ask user to input again friend's information for searching  3. System suggest friend that has the similar account name     |
+
+
  
 
 
