@@ -19,7 +19,7 @@
  8. Check friend location
  9. **Track friend**
 
-### Teacher
+### Teachers
 
 ### University Staff - Coordinators
 
