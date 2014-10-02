@@ -1,7 +1,9 @@
-### This is the chapter introducion
+#1. Introduction
 
-* Describe here the background and motivation for your project
-* Why this project, what was the need for the system?
-* Overall description of the system
-  * What it is
-  * What it is for, what the users can do with it?
+####Description of our project - CampusSeek
+
+Mr. Olli has shown us a prototype application which uses Indoor Positioning System (IPS) built by Metropolia students. It is available in Google Play under the name ['KANA'] (https://play.google.com/store/apps/details?id=fi.metropolia.jokketest&hl=en) which is still under development process. The current app is completely outdated and our team has decided to continue the development process of the app to implement new features and apply necessary fixes, thus enhancing users' navigating experience within Metropolia's campus.
+
+The CampusSeek project is a new software product, which is extending on the legacy KANA app, intended for use on mobile with Android and iOS platform. While the CampusSeek app is the main focus of our project, we also need a server where all the process of storing database and synchronization will be implemented. The CampusSeek system will have 2 main components: a mobile application which runs on mobile devices using Android or iOS, and a server-side application which will support and interact with the mobile application. This new system is designed to allow users to track other users' activities and places in addition to the traditional classroom navigation. Potential usage scenarios now include tracking friend or teacher, showing how to get to the tracked target by utilizing a robust and accurate IPS. Asking for immediate assistant is also possible in case of emergency. Additionally, users can have an option to hide their location and status if privacy is needed.
+
+As personal activity and location are sensitive information, our solution guarantees the use of latest technology standards available to protect your privacy. Ease of use is another key feature as we aim to ease the communication process between people in the same campus, bring them closer without having them deal with the tedious procedure of messaging, calling, asking to find each other.

@@ -1,8 +1,13 @@
-### This is the cover page of your document
+##Campus-Seek
 
-List here the following details:
-* Project title, name of the product
-* Team name
-* Team members
-* Date
-
+|                        |                              |
+|------------------------|------------------------------|
+| **Product Name**       | CampusSeek                   |
+| **Team Name**          | Prometheus                   |
+| **Team members**       | Nguyen Thai Binh 1403735     |
+|                        | Nguyen Dung Phuong  1304949  |
+|                        | Midhat Hasan Raghib  1304947 |
+| **Date of the report** | 23/09/2014                   |
+| **Editors**            | Nguyen Thai Binh 1403735     |
+|                        | Nguyen Dung Phuong  1304949  |
+|                        | Midhat Hasan Raghib  1304947 |
